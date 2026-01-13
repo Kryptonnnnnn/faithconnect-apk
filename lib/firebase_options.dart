@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBKu4DzPLCDkWWoJjQaAgqaKj9UiME1xbI',
+    apiKey: '',
     appId: '1:80519414516:android:f77a150a83a2e5b47114a1',
     messagingSenderId: '80519414516',
     projectId: 'faithconnect-2977a',
