@@ -1,4 +1,4 @@
-# FaithConnect 🙏📱
+# FaithConnect 📱
 
 FaithConnect is a Flutter mobile app that helps **Worshipers** connect with their **Religious Leaders** through posts, short video reels, and private messaging.
 
