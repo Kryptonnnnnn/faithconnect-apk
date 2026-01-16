@@ -189,7 +189,7 @@ flutter run
 
 ## 🙏 Credits
 
-- Built by: **[Nikhil]** (`@Kryptonnnnnn` on GitHub)  
+- Built by: ** Nikhil ** (`@Kryptonnnnnn` on GitHub)  
 - Submission for: **[Hackathon / AI x Faith / etc.]**
 
 Feel free to open issues or suggestions in the GitHub repo.
